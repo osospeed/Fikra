@@ -1,5 +1,5 @@
 # Fikra
-Have an idea to that you want it to be available ? Just post it here
+Have an idea that you want it to be available ? Just post it here
 
 ## Table of Contents
 
