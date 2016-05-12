@@ -1,8 +1,0 @@
-An idea to know more about APKs.
-Effective way to do so is to debug it dynamically.
-
-Right now it is possible to log all function return values and function parameters.
-This is done using Xposed Framework without the need to change the apk.
-Another way: use adb to forward the Application process to a port then attach jdb to the same port. The rest is break points and local variable dump.
-
-Examples will be uploaded... soon I hope >.<
